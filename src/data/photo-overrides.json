@@ -1,0 +1,44 @@
+{
+  "kashi-dawn-ghat.jpg": {
+    "date": "2026-10-16T05:50:00",
+    "city": "Varanasi",
+    "locationId": "dashashwamedh-ghat",
+    "caption": "Golden mist rising over the ancient ghats of Kashi at sunrise. Wooden boats slumber on the holy Ganga.",
+    "featured": true
+  },
+  "dashashwamedh-maha-aarti.jpg": {
+    "date": "2026-10-16T19:15:00",
+    "city": "Varanasi",
+    "locationId": "dashashwamedh-ghat",
+    "caption": "Sacred fire rising into the night during the magnificent Ganga Maha Aarti at Dashashwamedh Ghat.",
+    "featured": true
+  },
+  "manikarnika-sacred-fires.jpg": {
+    "date": "2026-10-17T18:40:00",
+    "city": "Varanasi",
+    "locationId": "manikarnika-ghat",
+    "caption": "The immortal fires of Manikarnika Ghat at twilight—a solemn meditation on time, life, and moksha.",
+    "featured": true
+  },
+  "sarnath-dhamek-stupa.jpg": {
+    "date": "2026-10-18T10:30:00",
+    "city": "Varanasi",
+    "locationId": "sarnath-deer-park",
+    "caption": "Quiet reverence beneath the monolithic 5th-century Dhamek Stupa in the historic deer park of Sarnath.",
+    "featured": true
+  },
+  "ram-janmabhoomi-mandir.jpg": {
+    "date": "2026-10-19T09:45:00",
+    "city": "Ayodhya",
+    "locationId": "ram-janmabhoomi",
+    "caption": "The monumental pink sandstone spires of Shri Ram Janmabhoomi Mandir standing under the morning sun.",
+    "featured": true
+  },
+  "saryu-sunset-ram-ki-paidi.jpg": {
+    "date": "2026-10-20T17:50:00",
+    "city": "Ayodhya",
+    "locationId": "saryu-ghat",
+    "caption": "Reflections of copper and amber across the tranquil Saryu River as the journey bids farewell to Ayodhya.",
+    "featured": true
+  }
+}
