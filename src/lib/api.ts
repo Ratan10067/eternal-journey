@@ -1,5 +1,5 @@
 const configuredApiUrl = import.meta.env.VITE_API_URL?.trim();
-export const API_BASE_URL = (configuredApiUrl || 'http://localhost:5001/api').replace(/\/$/, '');
+export const API_BASE_URL = (configuredApiUrl || (import.meta.env.DEV ? 'http://localhost:5001/api' : '/api')).replace(/\/$/, '');
 
 export class ApiError extends Error {
   constructor(message: string, public readonly status?: number) {
